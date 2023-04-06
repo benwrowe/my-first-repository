@@ -11,3 +11,5 @@ Important steps for git workflow
 ## Table of contents
 
 - example_file.txt
+
+Hello World I LOVE using git!
