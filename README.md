@@ -14,5 +14,5 @@ Important steps for git workflow
 
 Hello World I LOVE using git!
 
-Adding a few more lines for test purposes to..
-laern how to git pull
+Adding a few more lines for test purposes..
+to learn how to git pull
